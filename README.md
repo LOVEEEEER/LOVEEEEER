@@ -16,10 +16,6 @@
 ### Languages and Tools:
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node)
-![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
-![Mongodb](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongodb)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typyscript)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap)
