@@ -2,10 +2,10 @@
 
 ## My Apps
 
-<a href="cenema-chi.vercel.app" target="_blank">
+<a href="https://cenema-chi.vercel.app" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
 </a>
-<a href="clothes-shop-one.vercel.app" target="_blank">
+<a href="https://clothes-shop-one.vercel.app" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
 </a>
 
