@@ -1,4 +1,4 @@
-[![Header](https://github.com/LOVEEEEER/LOVEEEEER/blob/master/assets/welcome.gif)](https://t.me/hatesLov)
+[![Header]([https://github.com/LOVEEEEER/LOVEEEEER/blob/master/assets/welcome.gif](https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0))](https://t.me/hatesLov)
 
 ## My Apps
 
