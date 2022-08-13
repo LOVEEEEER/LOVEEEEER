@@ -1,4 +1,4 @@
-[![Header](https://giphy.com/gifs/studiosoriginals-reaction-gifs-3o6ZtpxSZbQRRnwCKQ)](https://t.me/hatesLov)
+[![Header](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)](https://t.me/hatesLov)
 
 ## My Apps
 
