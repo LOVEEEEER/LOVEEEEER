@@ -21,12 +21,13 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=html)
-![Material UI](https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=html)
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css)
-![UX/UI](https://img.shields.io/badge/-UX/UI-090909?style=for-the-badge&logo=ux)
+![Axios](https://img.shields.io/badge/-axios-orange)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-blueviolet)
+![SCSS](https://img.shields.io/badge/-SCSS-ff69b4)
+![Material UI](https://img.shields.io/badge/-Material%20UI-blue)
+![HTML5](https://img.shields.io/badge/-HTML5-grey)
+![CSS3](https://img.shields.io/badge/-CSS3-blue)
+![UX/UI](https://img.shields.io/badge/-UX%2FUI-blueviolet)
 
 ### Socials:
 
