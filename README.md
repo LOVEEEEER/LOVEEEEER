@@ -24,6 +24,8 @@
 
 ![React](https://img.shields.io/badge/-React-61dafb)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet)
+![Redux Toolkit](https://img.shields.io/badge/-Redux Toolkit-blueviolet)
+![Redux Toolkit](https://img.shields.io/badge/-Redux Thunk-orange)
 ![Webpack](https://img.shields.io/badge/-Webpack-1d76fb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdb2c)
 ![Axios](https://img.shields.io/badge/-axios-orange)
