@@ -29,6 +29,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-1d76fb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdb2c)
 ![Axios](https://img.shields.io/badge/-axios-orange)
+![Firebase](https://img.shields.io/badge/-Firebase-yellow)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-blueviolet)
 ![SCSS](https://img.shields.io/badge/-SCSS-ff69b4)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-blue)
