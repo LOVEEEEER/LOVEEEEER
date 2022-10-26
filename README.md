@@ -16,6 +16,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOVEEEEER&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
+### My languages and technologies
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOVEEEEER&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 
 ![React](https://img.shields.io/badge/-React-61dafb)
