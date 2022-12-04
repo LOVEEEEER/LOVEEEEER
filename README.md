@@ -23,6 +23,7 @@
 ### Languages and Tools:
 
 ![React](https://img.shields.io/badge/-React-61dafb)
+![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-blueviolet)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Thunk-orange)
