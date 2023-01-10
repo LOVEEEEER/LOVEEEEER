@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikita-demyanenko-b5b36b259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikita-demyanenko-b5b36b259/" height="30" width="40" /></a>
 <a href="https://discord.gg/Nikita Demyanenko#4851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nikita Demyanenko#4851" height="30" width="40" /></a>
 </p>
-<a href="https://t.me/hatesLov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@hatesLov" height="30" width="40" /></a>
+<a href="https://t.me/hatesLov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@hatesLov" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
