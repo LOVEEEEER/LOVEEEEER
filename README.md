@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nikitademyanenko000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dsUWAFy9mYOInGC5bzNbrBDZ6ZKkFHci/view?usp=sharing](https://drive.google.com/file/d/1dsUWAFy9mYOInGC5bzNbrBDZ6ZKkFHci/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TWAZ7MCblxVDP8BgIauemjJ9ZJANdAFn/view?usp=sharing](https://drive.google.com/file/d/1TWAZ7MCblxVDP8BgIauemjJ9ZJANdAFn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
