@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loveeeeer&label=Profile%20views&color=0e75b6&style=flat" alt="loveeeeer" /> </p>
 
-- 🔭 I’m currently working in <a href="https://udtx.vc">UDTX</a>
+- 🔭 I’m currently working in <a href="https://udtx.vc">UDTx</a>
 
 - 📫 How to reach me **nikitademyanenko000@gmail.com**
 
