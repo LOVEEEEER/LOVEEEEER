@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nikita Demyanenko</h1>
-<h3 align="center">FullStack developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loveeeeer&label=Profile%20views&color=0e75b6&style=flat" alt="loveeeeer" /> </p>
 
 - 🔭 I’m currently working in <a href="https://udtx.vc">UDTX</a>
 
-- 📫 How to reach me **nikitademyanenko000@gmail.com**
+- 💬 Ask me about **Frontend ♥**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dsUWAFy9mYOInGC5bzNbrBDZ6ZKkFHci/view?usp=sharing](https://drive.google.com/file/d/1dsUWAFy9mYOInGC5bzNbrBDZ6ZKkFHci/view?usp=sharing)
+- 📫 How to reach me **nikitademyanenko000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nikita-demyanenko-b5b36b259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikita-demyanenko-b5b36b259/" height="30" width="40" /></a>
-<a href="https://discord.gg/Nikita Demyanenko#4851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nikita Demyanenko#4851" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikita-demyanenko-b5b36b259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikita-demyanenko-b5b36b259/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loveeeeer&show_icons=true&locale=en" alt="loveeeeer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loveeeeer&" alt="loveeeeer" /></p>
