@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in <a href="https://udtx.vc">UDTX</a>
 
-- 💬 Ask me about **Frontend ♥**
+- 💬 I love **Frontend ♥**
 
 - 📫 How to reach me **nikitademyanenko000@gmail.com**
 
