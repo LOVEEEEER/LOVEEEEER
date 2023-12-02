@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nikita Demyanenko</h1>
+<h1 align="center">
+  <img src="https://github.com/LOVEEEEER/LOVEEEEER/blob/master/assets/name.svg" alt="Nikita Demyanenko" />
+</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loveeeeer&label=Profile%20views&color=0e75b6&style=flat" alt="loveeeeer" /> </p>
