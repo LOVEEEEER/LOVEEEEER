@@ -1,5 +1,5 @@
 # `console.log('Hello World!')`
-[![wakatime](https://wakatime.com/badge/user/4a690852-16f1-46e8-a303-6131886c96f8.svg)](https://wakatime.com/@4a690852-16f1-46e8-a303-6131886c96f8)
+[![wakatime](https://wakatime.com/badge/user/4a690852-16f1-46e8-a303-6131886c96f8.svg)]
 <div>
 <!-- <span><img src="https://www.codewars.com/users/Solexofficial/badges/small" alt="codewars-stats" /> </span>
 <span><img src="https://komarev.com/ghpvc/?username=solexofficial&label=Profile%20views&color=0e75b6&style=flat" alt="solexofficial" /></span> -->
