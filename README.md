@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%ffffff25?style=for-the-badge&logo=cypress&logoColor=white)
+![MobX](https://img.shields.io/badge/-mobx-1E90FF?style=for-the-badge&logo=mobx&logoColor=orange)
 
  
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
