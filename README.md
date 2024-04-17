@@ -7,9 +7,10 @@
 
 <h4 align="left">✋Hi everyone, I'am Nikita. Frontend developer</h4>
 
-<span>
+<!-- <span>
  <img src="https://github-readme-stats.vercel.app/api?username=LOVEEEEER&show_icons=true&locale=en&theme=shades-of-purple" alt="LOVEEEEER" align="right" width="470" />
 </span>
+-->
 
 - 💖 &nbsp;Develop platforms by **Typescript, React, nextJS**
 - 🥼 &nbsp;Researcher of VR/webXR, 3D tech. 
