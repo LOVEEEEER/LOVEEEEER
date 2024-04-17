@@ -8,7 +8,7 @@
 <h4 align="left">✋Hi everyone, I'am Nikita. Frontend developer</h4>
 
 <span>
- <img src="https://github-readme-stats.vercel.app/api?username=solexofficial&show_icons=true&locale=en&theme=shades-of-purple" alt="solexofficial" align="right" width="470" />
+ <img src="https://github-readme-stats.vercel.app/api?username=LOVEEEEER&show_icons=true&locale=en&theme=shades-of-purple" alt="LOVEEEEER" align="right" width="470" />
 </span>
 
 - 💖 &nbsp;Develop platforms by **Typescript, React, nextJS**
