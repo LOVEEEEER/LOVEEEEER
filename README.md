@@ -13,7 +13,8 @@
 -->
 
 - 💖 &nbsp;Develop platforms by **Typescript, React, nextJS**
-- 🥼 &nbsp;Researcher of VR/webXR, 3D tech. 
+- 🥼 &nbsp;Researcher of VR/webXR, 3D tech.
+- 🥼 &nbsp;My resume **[Resume](https://drive.google.com/file/d/17eMAkN3QKe8FvuhWuPoO9qnkROqdKoOr/view?usp=sharing)**
 - 🦄 &nbsp;Let's talk more in **[Telegram](https://t.me/FrontendOwner)**
 
 <br>
