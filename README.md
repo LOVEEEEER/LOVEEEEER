@@ -15,7 +15,6 @@
 - 💖 &nbsp;Develop platforms by **Typescript, React, nextJS**
 - 🌱 I’m currently learning **Go**
 - 🥼 &nbsp;Researcher of VR/webXR, 3D tech.
-- 📄 &nbsp;My **[Resume](https://drive.google.com/file/d/17eMAkN3QKe8FvuhWuPoO9qnkROqdKoOr/view?usp=sharing)**
 - 🦄 &nbsp;Let's talk more in **[Telegram](https://t.me/FrontendOwner)**
 
 <br>
